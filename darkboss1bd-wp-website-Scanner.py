@@ -2,7 +2,7 @@
 * Copyright (C) - 2025 All Rights Reserved
  * Unauthorized copying of this file, via any medium is strictly prohibited
  * Proprietary and confidential
- * Written by Darkboss1bd -Ak47 Hacker <darkboss1bd@.com>, jan-Dec 2025
+ * Written by Darkboss1bd -Ak47 Hacker <darkboss1bd@gmail.com>, jan-Dec 2025
  *
  """
 
