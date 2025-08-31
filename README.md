@@ -33,9 +33,9 @@ python darkboss1bd-wp-website-Scanner.py
 Subscribe: https://www.youtube.com/@darkboss1bd
 
 Contact Me :</br>
-<a href='https://t.me/darkvaiadmin'></a>
-<a href='http://m.me/cybercrackervai'></a>
-<a href='mailto:darkboss1bd@gmail.com'></a>
+Telegra: https://t.me/darkvaiadmin
+Facebook:https://m.me/cybercrackervai'></a>
+Email Contact:darkboss1bd@gmail.com
 
 ### Star(🌟) this repo if you like it  ~ DARKBOSS1BD -AK47 HACKER❤️
 
