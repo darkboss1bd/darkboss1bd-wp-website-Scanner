@@ -30,12 +30,12 @@ python darkboss1bd-wp-website-Scanner.py
 
 ℹ️<i> If these details are not found by this tool, reason could be > website is protected by WAF (Web Application Firewall)</i>
 
-Subscribe :</br> <a href='https://www.youtube.com/@darkboss1bd'><img src='#'></a>
+Subscribe: https://www.youtube.com/@darkboss1bd
 
 Contact Me :</br>
-<a href='https://t.me/darkvaiadmin'><img src='#'></a>
-<a href='http://m.me/cybercrackervai'><img src='#'></a>
-<a href='mailto:darkboss1bd@gmail.com'><img src='#'></a>
+<a href='https://t.me/darkvaiadmin'></a>
+<a href='http://m.me/cybercrackervai'></a>
+<a href='mailto:darkboss1bd@gmail.com'></a>
 
 ### Star(🌟) this repo if you like it  ~ DARKBOSS1BD -AK47 HACKER❤️
 
