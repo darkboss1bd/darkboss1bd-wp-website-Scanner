@@ -34,7 +34,7 @@ Subscribe: https://www.youtube.com/@darkboss1bd
 
 ### Contact Me:
 ## Telegram: https://t.me/darkvaiadmin
-## Facebook:https://m.me/cybercrackervai'></a>
+## Facebook:https://m.me/cybercrackervai
 ## Email Contact:darkboss1bd@gmail.com
 
 ### Star(🌟) this repo if you like it  ~ DARKBOSS1BD -AK47 HACKER❤️
